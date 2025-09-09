@@ -4,7 +4,8 @@
  - 💬 learning C#, Java, HTML, CSS, Javascrip, Odoo.
 
  - Socials
-  - [![LinkedIn](https://img.icons8.com/ios-filled/20/0A66C2/linkedin.png)](https://www.linkedin.com/in/tuusuario/)
+   - [![LinkedIn](https://img.icons8.com/ios-filled/20/0A66C2/linkedin.png)](https://www.linkedin.com/in/anxo-domínguez-guerra-a26b0a309)
+
 
 
    
