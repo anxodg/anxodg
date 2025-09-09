@@ -5,6 +5,8 @@
 
  - Socials
    - [![LinkedIn](https://img.icons8.com/ios-filled/20/0A66C2/linkedin.png)](https://www.linkedin.com/in/anxo-domínguez-guerra-a26b0a309)
+   - [![Twitter](https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png)](https://x.com/anxo10dg)
+
 
 
 
