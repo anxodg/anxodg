@@ -1,6 +1,6 @@
   ## Hi 👋,I'm Anxodg
  - 🌱 I'm currently learning  DAM/DAW
- - 📫 How to reach me: anxo10dg@gmail.com
+ - 📫 How to reach me: anxodominguezguerra@gmail.com
  - 💬 learning C#, Java, HTML, CSS, Javascrip, Odoo.
 
  - Socials
